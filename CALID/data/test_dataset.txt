@@ -1,0 +1,10 @@
+./data/images/Woman_0446.jpg
+./data/images/02SurfaceCoverVideo00003_00000005.jpg
+./data/images/Woman_0476.jpg
+./data/images/05ShapeVideo00008_00000016.jpg
+./data/images/COCO_val2014_000000572790.jpg
+./data/images/06MotionSmoothnessVideo00022_00000091.jpg
+./data/images/COCO_val2014_000000574103.jpg
+./data/images/COCO_val2014_000000573750.jpg
+./data/images/COCO_val2014_000000573206.jpg
+./data/images/Car24_1826.jpg
